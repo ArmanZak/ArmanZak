@@ -12,4 +12,4 @@ Currently learning Git, Python, and exploring real-world projects with the goal 
 - 🚀 Actively working on beginner-friendly open-source projects  
 - 💬 Always open to learning and collaborating  
 
-- 📫 Connect with me on LinkedIn: [linkedin.com/in/Arman-kuanra]
+- 📫 Connect with me on LinkedIn: (https://linkedin.com/in/Arman-kuanra)
