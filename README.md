@@ -1,10 +1,15 @@
-### Hi, I'm Arman Kuanra 👋
+### Hi, I'm Arman Kuanra 👋  
 
-**Data Analyst | Data Engineering Focus**
+### Computer Science student | Python Learner | Open Source Beginner  
 
-I specialize in the Python ecosystem and Cloud Architecture, with a strong interest in **Generative AI** and **Data Science**. My focus is building robust solutions for data transformation and analysis.
+I'm a CS student passionate about Python, backend development, and open-source contributions.  
+Currently learning Git, Python, and exploring real-world projects with the goal of contributing to Google Summer of Code (GSoC).  
 
-- 🐍 Currently solidifying Python and SQL skills (Winter Sprint 2025).
-- ☁️ Triple certified in Oracle Cloud Infrastructure (OCI).
-- 🧠 Projects include tasks in **Generative AI** and core **Data Science** principles.
-- 🚀 Connect with me on [LinkedIn](linkedin.com/in/Arman-kuanra) for professional inquiries.
+🔹 Currently learning: Python, Git & GitHub, SQL  
+🔹 Interested in: Backend Development, Data Engineering, Open Source  
+🔹 Goal: Become a strong open-source contributor and crack GSoC  
+
+- 🚀 Actively working on beginner-friendly open-source projects  
+- 💬 Always open to learning and collaborating  
+
+- 📫 Connect with me on LinkedIn: [linkedin.com/in/Arman-kuanra]
