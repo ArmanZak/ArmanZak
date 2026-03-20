@@ -7,7 +7,6 @@ Currently learning Git, Python, and exploring real-world projects with the goal 
 
 🔹 Currently learning: Python, Git & GitHub, SQL  
 🔹 Interested in: Backend Development, Data Engineering, Open Source  
-🔹 Goal: Become a strong open-source contributor and crack GSoC  
 
 - 🚀 Actively working on beginner-friendly open-source projects  
 - 💬 Always open to learning and collaborating  
